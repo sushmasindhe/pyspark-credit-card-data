@@ -1,0 +1,8 @@
+{
+  "fields": [
+    {"name": "account_number", "type": "string"},
+    {"name": "card_number", "type": "string"},
+    {"name": "expiration_date", "type": "string"},
+    {"name": "cvv", "type": "string"}
+  ]
+}

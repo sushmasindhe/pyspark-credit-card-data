@@ -1,0 +1,21 @@
+{
+  "num_accounts": 5,
+  "total_records_per_month": 100,
+  "name": "expiration_date",
+  "common_merchant_names": [
+    "SuperMart",
+    "TechStop",
+    "FashionHub",
+    "FoodZone",
+    "GadgetStore",
+    "CosmoClothes",
+    "HealthPlus",
+    "ExpressMart",
+    "EcoEats",
+    "QuickMart"
+  ],
+  "n_years": 1,
+  "user_schema_path": "src/schemas/user_schema.json",
+  "credit_card_schema_path": "src/schemas/credit_card_schema.json",
+  "transaction_schema_path": "src/schemas/transaction_schema.json"
+}
